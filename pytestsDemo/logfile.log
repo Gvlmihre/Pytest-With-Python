@@ -1,0 +1,9 @@
+2023-07-08 08:49:16,937 : DEBUG : test_logging : A debug statement is executed
+2023-07-08 08:49:16,937 : INFO : test_logging : information statement
+2023-07-08 08:49:16,938 : WARNING : test_logging : Something is in warning mode
+2023-07-08 08:49:16,938 : ERROR : test_logging : A major error has happened
+2023-07-08 08:49:16,938 : CRITICAL : test_logging : Critical issue
+2023-07-08 08:50:04,293 : INFO : test_logging : information statement
+2023-07-08 08:50:04,294 : WARNING : test_logging : Something is in warning mode
+2023-07-08 08:50:04,294 : ERROR : test_logging : A major error has happened
+2023-07-08 08:50:04,294 : CRITICAL : test_logging : Critical issue
